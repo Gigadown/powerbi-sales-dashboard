@@ -1,2 +1,25 @@
-# powerbi-sales-dashboard
-Power BI Dashboard analyzing daily order trends, total revenue, and customer insights.
+# Power BI Sales Dashboard
+
+This dashboard analyzes key metrics such as:
+- 📈 Daily Trend for Total Orders
+- 💰 Total Revenue and Average Order Value
+- 🛍️ Category-wise and Product-level Insights
+
+## 🔍 Dashboard Preview
+
+![Dashboard Screenshot](dashboard-overview.png)
+
+## 📁 Files Included
+- `dashboard-overview.png` – Screenshot of the dashboard
+- `sales_dashboard.pbix` – Power BI file (optional)
+
+## 🛠️ Tools Used
+- Power BI Desktop
+- SQL Server (for data)
+- Excel/CSV (sample data source)
+
+## 📌 Insights Highlighted
+- Identified sales peaks and low-order days
+- Analyzed top-performing product categories
+- Highlighted KPIs for data-driven decisions
+
