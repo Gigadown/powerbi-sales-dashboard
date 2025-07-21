@@ -7,11 +7,11 @@ This dashboard analyzes key metrics such as:
 
 ## 🔍 Dashboard Preview
 
-![Dashboard Screenshot](dashboard-overview.png)
+
 
 ## 📁 Files Included
 - `dashboard-overview.png` – Screenshot of the dashboard
-- `sales_dashboard.pbix` – Power BI file (optional)
+- `sales_dashboard.pbix` – Power BI file 
 
 ## 🛠️ Tools Used
 - Power BI Desktop
