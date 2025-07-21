@@ -6,7 +6,7 @@ This dashboard analyzes key metrics such as:
 - 🛍️ Category-wise and Product-level Insights
 
 ## 🔍 Dashboard Preview
-
+https://github.com/Gigadown/powerbi-sales-dashboard/blob/main/Home_Dashboard.png
 
 
 ## 📁 Files Included
