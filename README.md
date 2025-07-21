@@ -7,6 +7,7 @@ This dashboard analyzes key metrics such as:
 
 ## 🔍 Dashboard Preview
 https://github.com/Gigadown/powerbi-sales-dashboard/blob/main/Home_Dashboard.png
+https://github.com/Gigadown/powerbi-sales-dashboard/blob/main/Sellers_Dashboard.png
 
 
 ## 📁 Files Included
